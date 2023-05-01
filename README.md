@@ -1,2 +1,2 @@
 # php_activity
-Repo for php activity
+<h3>This i the repo for the work using <strong>PHP and Bootstrap</strong></h3>
